@@ -25,7 +25,7 @@ The data is only in a database format, so I have to use SQL queries to answer th
 
 ### Steps to Follow
 
-- You will find all the SQL Queries in the [sql_script.sql](sql/sql_script.sql) file, and the most important file to fully understand the whole process is the [sql_process.md](sql/sql_process.md).
+- You will find all the SQL Queries in the [sql_script.sql](SQL/) file, and the most important file to fully understand the whole process is the [sql_process.md](SQL/).
 
 **Main Files to Check:**
 
