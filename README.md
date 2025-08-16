@@ -33,7 +33,7 @@ After answering the business questions, it was found that:
 
 ### Steps to Follow
 
-- **You will find all the SQL Queries in the [sql_script.sql](SQL/) file, and the most important file to fully understand the whole process is the [sql_process.md](SQL/).**
+- **You will find all the SQL Queries in the [sql_script.sql](SQL/mysql_script.sql) file, and the most important file to fully understand the whole process is the [sql_process.md](SQL/sql_process.md).**
 
 **Main Files to Check:**
 
