@@ -25,10 +25,12 @@ The data is only in a database format, so I have to use SQL queries to answer th
 
 ### Steps to Follow
 
-- You will find all the SQL Queries in the [sql_script.sql](SQL/) file, and the most important file to fully understand the whole process is the [sql_process.md](SQL/).
+- **You will find all the SQL Queries in the [sql_script.sql](SQL/) file, and the most important file to fully understand the whole process is the [sql_process.md](SQL/).**
 
 **Main Files to Check:**
 
+- `SQL/sql_process.md` → This file documents the project process.
+- `images/ Q1:Q4` → Screenshots of the query executions.
 - `SQL/Chinook_MySql.sql` → Database scripts.
 - `LICENSE.md` → Outher License
 
