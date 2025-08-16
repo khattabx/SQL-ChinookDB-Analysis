@@ -5,7 +5,7 @@
 - The data is about a digital media store, featuring tables for **artists**, **albums**, **media tracks**, **invoices**, and **customers**.
 - To explore the full story behind the **Chinook Database** - its purpose, origin, and details - visit [lerocha](https://github.com/lerocha/chinook-database).
 
-![ERD](assets/ERD.png)
+![ERD](images/ERD.png)
 
 ---
 
@@ -22,6 +22,14 @@ The data is only in a database format, so I have to use SQL queries to answer th
 - Top-Selling Products.
 - Revenue Per Region.
 - Monthly Performance.
+
+### Update
+
+After answering the business questions, it was found that:
+
+- Top-Selling Products: Dazed and Confused, **The Trooper**.
+- Top Region by Total Revenue: **USA — 523.06**.
+- Highest Monthly Performance: **April 2023 — 51.62** (with all other months included in the results).
 
 ### Steps to Follow
 
